@@ -1,6 +1,6 @@
 # 🌌 Caio Gesser Custodio
 
-**`Full-Stack ~ Junior Developer`**
+**`Dev. Full-Stack Junior`**
 
 Sou um desenvolvedor **Full-Stack Junior**, gosto de criar projetos do zero, sempre buscando criar códigos limpos e eficientes. Embora design não seja minha principal habilidade, me empenho a estudar documentações e aprender o máximo possível sobre as tecnologias que uso para aprimorar minhas habilidades, transformando minhas ideias em realidade.
 Estou sempre buscando novos desafios e maneiras de evoluir como desenvolvedor. 🚀
