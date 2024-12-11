@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="170" src="https://media.licdn.com/dms/image/v2/D4E16AQGwpLKj8aQ2Vg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1733938070545?e=1739404800&v=beta&t=f_C63vJPnVWwGYu8tn0BrZ_6a48cG5NF84oziy419j4"  />
+  <img height="200" src="https://media.licdn.com/dms/image/v2/D4E16AQGwpLKj8aQ2Vg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1733938070545?e=1739404800&v=beta&t=f_C63vJPnVWwGYu8tn0BrZ_6a48cG5NF84oziy419j4"  />
 </div>
 
 ###
@@ -50,14 +50,12 @@
 
 ###
 
-<img align="left" height="60" src="https://deltassis.com.br/assets/img/carregando1.gif"  />
+<br clear="both">
 
-###
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="stackoverflow logo"  />
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="stackoverflow logo"  />
 </div>
 
 ###
