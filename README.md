@@ -65,8 +65,6 @@
 <div align="center">
 </div>
 
-###
-
 <br clear="both">
 
 <picture>
