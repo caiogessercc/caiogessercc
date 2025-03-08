@@ -1,14 +1,28 @@
 <br clear="both">
 
-<div align="center">
-  <img height="250" src="https://media.licdn.com/dms/image/v2/D4E16AQGwpLKj8aQ2Vg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1733938070545?e=1739404800&v=beta&t=f_C63vJPnVWwGYu8tn0BrZ_6a48cG5NF84oziy419j4"  />
-</div>
+
 
 ###
 
 <br clear="both">
 
-<p align="left">Sou um desenvolvedor Full-Stack Junior, gosto de criar projetos do zero, sempre buscando criar códigos limpos e eficientes. Embora design não seja minha principal habilidade, me empenho a estudar documentações e aprender o máximo possível sobre as tecnologias que uso para aprimorar minhas habilidades. Estou sempre buscando novos desafios e maneiras de evoluir como desenvolvedor. 🚀</p>
+<h2>Sobre Mim</h2>
+<p>
+  Sou um desenvolvedor <strong>full-stack júnior</strong> e gosto de desenvolver projetos do zero, sempre priorizando código limpo e boas práticas.
+  Tenho conhecimento sólido em <strong>HTML, CSS e JavaScript</strong> e estou aprimorando minhas habilidades em <strong>TypeScript e Docker</strong>.
+</p>
+<p>
+  No front-end, trabalho com <strong>React.js, Remix.Run, React Router</strong> e <strong>Astro</strong>.
+</p>
+<p>
+  No back-end, estou aprimorando minhas habilidades em <strong>Node.js</strong> e <strong>Express</strong>, seguindo boas práticas como <strong>SOLID</strong>.
+  Além disso, estudo <strong>PHP</strong> e <strong>Laravel</strong>.
+</p>
+<p>
+  Sou comprometido com aprendizado e evolução constantes, dedicando tempo ao estudo de <strong>documentações, cursos</strong> e <strong>projetos práticos</strong> para aprimorar ainda mais minhas habilidades.
+</p>
+
+<br clear="both">
 
 ###
 
@@ -22,25 +36,25 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" title="JAVASCRIPT"  />
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" title="TYPESCRIPT" />
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" title="REACT" />
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" title="PHP" />
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" title="LARAVEL" />
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" title="DOCKER" />
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" title="NODEJS" />
   <img width="20" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" title="TAILWINDCSS" />
   <img width="20" />
-  <img src="https://cdn.simpleicons.org/prisma/2D3748" height="40" alt="prisma logo"  />
+  <img src="https://cdn.simpleicons.org/prisma/2D3748" height="40" title="PRISMA" />
   <img width="20" />
-  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="40" alt="postgresql logo"  />
+  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="40" title="POSTGRESQL" />
 </div>
 
 ###
@@ -65,13 +79,8 @@
 
 <br clear="both">
 
-<div align="center">
-</div>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/caiogessercc/caiogessercc/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/caiogessercc/caiogessercc/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/caiogessercc/caiogessercc/output/github-snake.svg" />
 </picture>
-
-###
