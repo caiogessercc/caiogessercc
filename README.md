@@ -13,8 +13,7 @@
 </p>
 <p>
   Tenho experiência no desenvolvimento front-end utilizando <strong>React.js, Remix, React Router</strong> e <strong>Astro</strong>.
-</p>
-<p>
+  <br>
   No back-end, estou aprimorando minhas habilidades em <strong>Node.js</strong> e <strong>Express</strong>, seguindo boas práticas como <strong>SOLID</strong>.
   Além disso, estudo <strong>PHP</strong> e <strong>Laravel</strong>.
 </p>
