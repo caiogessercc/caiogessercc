@@ -12,7 +12,7 @@
   Tenho conhecimento sólido em <strong>HTML, CSS e JavaScript</strong> e estou aprimorando minhas habilidades em <strong>TypeScript e Docker</strong>.
 </p>
 <p>
-  No front-end, trabalho com <strong>React.js, Remix.Run, React Router</strong> e <strong>Astro</strong>.
+  Tenho experiência no desenvolvimento front-end utilizando <strong>React.js, Remix, React Router</strong> e <strong>Astro</strong>.
 </p>
 <p>
   No back-end, estou aprimorando minhas habilidades em <strong>Node.js</strong> e <strong>Express</strong>, seguindo boas práticas como <strong>SOLID</strong>.
