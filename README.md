@@ -8,17 +8,13 @@
 
 <h2>Sobre Mim</h2>
 <p>
-  Sou um desenvolvedor <strong>full-stack júnior</strong> e gosto de desenvolver projetos do zero, sempre priorizando código limpo e boas práticas.
-  Tenho conhecimento sólido em <strong>HTML, CSS e JavaScript</strong> e estou aprimorando minhas habilidades em <strong>TypeScript e Docker</strong>.
+  Sou desenvolvedor Full Stack Júnior e estudante de Ciência da Computação, com interesse no desenvolvimento, manutenção e evolução de sistemas.
 </p>
 <p>
-  Tenho experiência no desenvolvimento front-end utilizando <strong>React.js, Remix, React Router</strong> e <strong>Astro</strong>.
-  <br>
-  No back-end, estou aprimorando minhas habilidades em <strong>Node.js</strong> e <strong>Express</strong>, seguindo boas práticas como <strong>SOLID</strong>.
-  Além disso, estudo <strong>PHP</strong> e <strong>Laravel</strong>.
+  Tenho experiência com React, Node.js, PHP, Laravel e bancos de dados relacionais. Além do desenvolvimento web, venho me aprofundando em programação de baixo nível, estudando C e Assembly e desenvolvendo projetos com essas linguagens, explorando conceitos de arquitetura de computadores e memória.
 </p>
 <p>
-  Sou comprometido com aprendizado e evolução constantes, dedicando tempo ao estudo de <strong>documentações, cursos</strong> e <strong>projetos práticos</strong> para aprimorar ainda mais minhas habilidades.
+  Gosto de compreender como as coisas funcionam por trás das abstrações e de aplicar esse conhecimento tanto no desenvolvimento de aplicações quanto em projetos simples que envolvem fundamentos mais próximos do hardware.
 </p>
 
 <!--
