@@ -45,7 +45,7 @@
   <img width="20" />
   <img src="https://cdn.simpleicons.org/prisma/2D3748" height="40" alt="Prisma" title="Prisma" />
   <img width="20" />
-  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="40" alt="PostgreSQL" title="PostgreSQL" />
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="MySQL" title="MySQL" />
 </div>
 
 <br />
