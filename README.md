@@ -1,78 +1,76 @@
-<br clear="both">
-
-
-
-###
-
-<br clear="both">
-
 <h2>Sobre Mim</h2>
+
 <p>
-  Sou desenvolvedor Full Stack Júnior e estudante de Ciência da Computação, com interesse no desenvolvimento, manutenção e evolução de sistemas.
+  Sou desenvolvedor Full Stack Júnior e estudante de Ciência da Computação na Unesc, com interesse no desenvolvimento, manutenção e evolução de sistemas.
 </p>
+
 <p>
   Tenho experiência com React, Node.js, PHP, Laravel e bancos de dados relacionais. Além do desenvolvimento web, venho me aprofundando em programação de baixo nível, estudando C e Assembly e desenvolvendo projetos com essas linguagens, explorando conceitos de arquitetura de computadores e memória.
 </p>
+
 <p>
   Gosto de compreender como as coisas funcionam por trás das abstrações e de aplicar esse conhecimento tanto no desenvolvimento de aplicações quanto em projetos simples que envolvem fundamentos mais próximos do hardware.
 </p>
 
-<!--
-<br clear="both">
-###
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=caiogessercc&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=caiogessercc&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" title="C" />
+  <img width="20" />
+  <img src="https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge" height="28" alt="Assembly" title="Assembly" />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="Go" title="Go" />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" title="Java" />
+  <img width="20" />
+  <img src="https://img.shields.io/badge/COBOL-005CA5?style=for-the-badge" height="28" alt="COBOL" title="COBOL" />
 </div>
--->
 
-###
-
-<br clear="both">
+<br />
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" title="JAVASCRIPT"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" title="JavaScript" />
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" title="TYPESCRIPT" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" title="TypeScript" />
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" title="REACT" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" title="React" />
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" title="PHP" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" title="PHP" />
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" title="LARAVEL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="Laravel" title="Laravel" />
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" title="DOCKER" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" title="Docker" />
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" title="NODEJS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" title="Node.js" />
   <img width="20" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" title="TAILWINDCSS" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="Tailwind CSS" title="Tailwind CSS" />
   <img width="20" />
-  <img src="https://cdn.simpleicons.org/prisma/2D3748" height="40" title="PRISMA" />
+  <img src="https://cdn.simpleicons.org/prisma/2D3748" height="40" alt="Prisma" title="Prisma" />
   <img width="20" />
-  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="40" title="POSTGRESQL" />
+  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="40" alt="PostgreSQL" title="PostgreSQL" />
 </div>
 
-###
-
-<div align="left">
-</div>
-
-###
-
-<br clear="both">
+<br />
 
 <div align="center">
   <a href="https://www.linkedin.com/in/caiogesserc/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="LinkedIn" />
   </a>
 </div>
 
-###
+<br />
 
-<br clear="both">
+<details>
+<summary><b>English</b></summary>
+
+<p>
+  I'm a junior full-stack developer and a Computer Science student at Unesc. I work with JavaScript/TypeScript, React, Node.js, PHP and Laravel, and I'm studying low-level programming in C and Assembly.
+</p>
+
+</details>
+
+<br />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/caiogessercc/caiogessercc/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/caiogessercc/caiogessercc/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/caiogessercc/caiogessercc/output/github-snake.svg" />
+  <img alt="Animação da cobrinha percorrendo o gráfico de contribuições do GitHub" src="https://raw.githubusercontent.com/caiogessercc/caiogessercc/output/github-snake.svg" />
 </picture>
